@@ -1,0 +1,1 @@
+Yes, it is totally normal. Programming may not "click" for you until maybe even Exercise 36, or it might not until you finish the book and then make something with Ruby. Everyone is different, so just keep going and keep reviewing exercises that you had trouble with until it clicks. Be patient.
